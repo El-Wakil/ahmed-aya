@@ -49,7 +49,7 @@ export default function DressCode() {
         {/* Dress code illustration */}
         <div className="dresscode-image">
           <img
-            src="/images/dresscode.png"
+            src="./images/dresscode.png"
             alt="Elegant dress code illustration - formal attire"
           />
         </div>

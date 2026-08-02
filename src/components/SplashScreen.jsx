@@ -24,7 +24,7 @@ export default function SplashScreen({ onOpen }) {
       id="splash-screen"
     >
       <img
-        src="/images/splash-envelope-arabic.png"
+        src="./images/splash-envelope-arabic.png"
         alt="Wedding invitation envelope"
         className="splash-envelope"
       />

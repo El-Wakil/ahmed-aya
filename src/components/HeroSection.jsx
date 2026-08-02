@@ -9,7 +9,7 @@ export default function HeroSection() {
     <section className="hero-section" id="hero-section">
       {/* Background image */}
       <img
-        src="/images/hero-bg.png"
+        src="./images/hero-bg.png"
         alt="Luxurious Moroccan palace with golden curtains and chandelier"
         className="hero-bg-image"
       />

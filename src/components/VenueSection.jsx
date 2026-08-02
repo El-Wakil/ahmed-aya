@@ -22,7 +22,7 @@ export default function VenueSection() {
         {/* Venue illustration */}
         <div className="venue-image">
           <img
-            src="/images/venue.jpg"
+            src="./images/venue.jpg"
             alt="Beldi Country Club - Marrakech evening scene with lanterns and dining"
           />
         </div>

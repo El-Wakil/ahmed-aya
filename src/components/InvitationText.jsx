@@ -15,7 +15,7 @@ export default function InvitationText() {
         <div className="invitation-card">
           {/* Bismillah calligraphy */}
           <img
-            src="/images/bismillah.png"
+            src="./images/bismillah.png"
             alt="بسم الله الرحمن الرحيم"
             className="bismillah-img"
           />

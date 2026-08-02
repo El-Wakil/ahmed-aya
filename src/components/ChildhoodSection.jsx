@@ -17,7 +17,7 @@ export default function ChildhoodSection() {
           display: 'inline-block'
         }}>
           <img
-            src="/images/IMG_4328.jpg"
+            src="./images/IMG_4328.jpg"
             alt="صورة العريس والعروسة"
             style={{
               width: '100%',

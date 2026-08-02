@@ -36,7 +36,7 @@ export default function App() {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    audioRef.current = new Audio('/audio/ادخلي عمري.mp3');
+    audioRef.current = new Audio('./audio/ادخلي عمري.mp3');
     audioRef.current.loop = false;
     audioRef.current.volume = 0.5;
 
